@@ -1,0 +1,15 @@
+{
+  "id": "13c03cef10dabccc61cc9661f09ea806d8fcbca9",
+  "name": "go.mod",
+  "size": 112,
+  "type": ".mod",
+  "chunks": [
+    {
+      "index": 0,
+      "size": 140,
+      "hash": "5ec9cdd19458c80c9c3f5e2b3d3a7ddb7e9486c4",
+      "content": "Zzp0qh9eqsWbIY4kpMLkgoIQEckktpvXYLEr9dlYxBCWKPcvuVKjRYbktFyueDBwYPQjqJYs/1cc+knU+NhsgFfq1o9LrJEQKAnBRDNq13sFzHzPJYkQ86HkiF9YxaB5VDIkq1flHTXOoV1lu7reKt5KoWN1hh2IK6XnHtrnVZFeRluUAhHpDPzxvgk="
+    }
+  ],
+  "encrypted": true
+}
